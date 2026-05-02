@@ -71,3 +71,4 @@ export default defineConfig([
   },
 ])
 ```
+- **Backend (simulated)**: localStorage + service layer – ready to connect to any REST API.
